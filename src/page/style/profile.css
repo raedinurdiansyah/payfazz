@@ -1,0 +1,40 @@
+.t-13 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.9);
+
+}
+
+.t-nama {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.user {
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    border: none;
+}
+
+.user-2 {
+    border-radius: 50%;
+    width: 56px;
+    height: 56px;
+    border: none;
+}
+
+.foto-mainProfile {
+    border-radius: 50%;
+    width: 152px;
+    height: 152px;
+    border-style: double;
+    border-color: #e9ebeccc;
+   
+}
+
+.linksLogo {
+    width: 24px;
+    height: 24px;
+}

@@ -1,0 +1,49 @@
+.footerNav {
+    margin: 50px 0 0 0;
+    padding: 0;
+    height: 20vh;
+}
+
+.list {
+    padding: 0
+}
+.logoFooter {
+    width: 84px;
+    height: 25px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.flex-item {
+    width:30%;
+    padding: 6px 0 6px 0;
+    font-weight: 500;
+    color: #495D6E;
+    font-size: 1rem
+
+}
+
+.icon {
+    font-size: 24px;
+    margin-right: 16px;
+    line-height: 24px;
+    color: #0091ca
+}
+
+.bahasa {
+    color: #0091ca;
+    border-color: #0091ca
+}
+
+.footerFont {
+    margin: 0;
+    color: "#495D6E";
+    font-weight: 500;
+    color: #495D6E;
+    font-size: 1rem
+}

@@ -1,0 +1,102 @@
+.navbar {
+    background-color: #283e4a;
+    color: white;
+    padding: 0
+}
+
+.logo {
+    height: 34px;
+    width: 34px;
+}
+
+.inner-addon {
+  position: relative;
+}
+
+/* style glyph */
+.inner-addon .Schicon {
+  position: absolute;
+ 
+  pointer-events: none;
+}
+
+/* align glyph */
+.left-addon .Schicon  { left:  0px;}
+
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+
+li {
+  text-align: center;
+  padding-top: 8px;
+  color: white;
+}
+
+.nav-link {
+  padding: 0px !important;
+  color:white;
+  font-size: 14px
+
+}
+
+.nav-icon {
+  height: 24px;
+  width: 24px;
+}
+
+.nav-item {
+ min-width: 90px;
+}
+
+
+#profile {
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  /* border: solid whitesmoke; */
+}
+
+.dropdown-menu {
+  padding: 16px;
+  color:black;
+  width: 720px
+}
+.dropdown-menu ul {
+  padding: 0;
+  color:black;
+}
+.dropdown-menu ul li{
+  padding: 0;
+  text-align: left;
+}
+.dropdown-menu ul li a {
+  color: black;
+}
+
+.dropdown-profile {
+  padding: 16px;
+  color:black;
+  width: 72px
+}
+
+.icon-search {
+  color: #007bff
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.margin-top li {
+  margin-top: 16px
+}
+
+.badge {
+  position: absolute;
+  background-color: red;
+  border-radius: 50%;  
+}
